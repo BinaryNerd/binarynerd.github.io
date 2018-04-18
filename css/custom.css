@@ -1,4 +1,4 @@
-@import url(omnes-pro.css);
+rene@import url(omnes-pro.css);
 @import url(http://fonts.googleapis.com/css?family=Coda);
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 @import url(http://fonts.googleapis.com/css?family=Raleway);
@@ -201,7 +201,7 @@ iframe
     letter-spacing: 2px;
 }
 .rene {
-    font-size: 120px;
+    font-size: 100px;
     color: white;
     font-family: "omnes-pro", "Helvetica", sans-serif;
     font-weight: 300;
@@ -810,7 +810,7 @@ form
 @media (max-width: 515px){
     .rene
     {
-        font-size: 70px;
+        font-size: 60px;
     }
 }
 @media (max-width: 405px){
