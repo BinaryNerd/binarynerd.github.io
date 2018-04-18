@@ -7,7 +7,8 @@ aside {
 }
 textarea {
   width: 100%;
-  border-radius: 4px;
+  background-color: #FBF8EF;
+  color: #8A0829;
 }
 
 
@@ -35,4 +36,6 @@ button {
 #name, #email {
   width: 100%;
   margin-bottom:10px;
+  background-color : #FBF8EF;
+ color : #8A0829;
 }
