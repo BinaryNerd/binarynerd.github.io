@@ -180,6 +180,36 @@ iframe
     width: 100%;
     z-index: 9999;
 }
+
+.aboutbackground{
+	 background: url(../img/header.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+	
+}
+
+.teambackground{
+	 background: url(../img/team.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+	 background-repeat: no-repeat;
+	 
+		
+}
+.contactbackground{
+
+	background: url(../img/Contactus.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+		
+}
+
+
 #wrapper
 {
     background: url(../img/background.jpeg);
